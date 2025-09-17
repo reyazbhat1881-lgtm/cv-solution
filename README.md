@@ -1,3 +1,2 @@
 # cv-solution
-https://github.com/reyazbhat1881-lgtm/cv-solution]
-cv.html
+file:///D:/11%20web-dev%20learn/pros.internet/cv.html
